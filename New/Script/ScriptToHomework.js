@@ -1,5 +1,3 @@
-fun
-
 const button = document.querySelector(".button");
 button.hidden = true;
 
