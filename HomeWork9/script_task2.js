@@ -1,4 +1,4 @@
-const input = +prompt('введите число радиуса: ');
+const input = +prompt("введите число радиуса: ");
 
 var lengthCircle = 2 * Math.PI * input;
 
